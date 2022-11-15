@@ -3,7 +3,7 @@
 pip==18.1
 # Flask==2.2.2
 flask==1.0.2
-flask-cors==flask-cors
+flask-cors==3.0.10
 gunicorn==19.9.0
 
 # Base ----------------------------------------
